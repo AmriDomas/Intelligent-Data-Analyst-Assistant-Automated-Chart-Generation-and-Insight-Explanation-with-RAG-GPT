@@ -1,4 +1,4 @@
-# 📊 Intelligent-Data-Analyst-Assistant-Automated-Chart-Generation-and-Insight-Explanation-with-RAG-GPT
+# 📊 Intelligent Data Analyst Assistant Automated Chart Generation and Insight Explanation with RAG GPT
 
 This project combines **Retrieval-Augmented Generation (RAG)** with automatic chart generation and visual data analysis using **OpenAI GPT-4o**, enabling users to extract insights from structured (CSV) and unstructured (PDF) data using **natural language**.
 
